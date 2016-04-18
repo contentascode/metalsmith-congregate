@@ -1,6 +1,6 @@
 {
-  "name": "@trychameleon/metalsmith-congregate",
-  "repository": "git+https://github.com/trychameleon/metalsmith-congregate.git",
+  "name": "metalsmith-congregate",
+  "repository": "git+https://github.com/contentascode/metalsmith-congregate.git",
   "version": "0.9.0",
   "license": "MIT",
   "description": "A Metalsmith plugin to bring multiple separate files to one location.",
